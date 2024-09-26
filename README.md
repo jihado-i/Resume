@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jihad and I'm a passionate web developer from India.</h2>
+<h2 align="left">Hi 👋! My name is Jihad and I'm a passionate Web Developer </h2>
 
 ###
 
