@@ -72,15 +72,9 @@
   <a href="https://instagram.com/jihad_elibrahimm" target="blank">Instagram</a>
 </p>
 
-###
-
 <h3 align="left">Projects:</h3>
 <ul>
   <li><a href="https://grand-meerkat-cc92b1.netlify.app/">Grand Meerkat</a></li>
   <li><a href="https://jihado-i.github.io/AwesomePortfolio/">Awesome Portfolio</a></li>
   <li><a href="https://lambent-tulumba-afbeec.netlify.app/">Lambent Tulumba</a></li>
 </ul>
-
-###
-
-<img src="https://raw.githubusercontent.com/jihado-i/jihado-i/output/snake.svg" alt="Snake animation" />
