@@ -1,14 +1,9 @@
 <h2 align="left">Hi 👋! My name is Jihad and I'm a passionate Web Developer </h2>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jihado-i&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jihado-i&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
-
-###
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jihado-i&label=Profile%20views&color=0e75b6&style=flat" alt="jihad" /> </p>
 <img align="right" height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm5xZHRheWc0MTlmbDlsdGN1b3NleWc0dG1lNm5kM2tmYWh1OHVpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.gif" alt="coding animation" />
 
 ###
@@ -64,10 +59,8 @@
 
 <h3 align="left">💬 Ask me about freelance work opportunities or collaborations. Feel free to reach out if you'd like to work together!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jihado-i&label=Profile%20views&color=0e75b6&style=flat" alt="jihad" /> </p>
-
 - 👨‍💻 All of my projects are available at [My Projects](https://github.com/jihado-i)
-- 📝 I regularly write articles on [My Blog](https://jihado.com/)
+- 📝 I regularly write articles on [My Blog](https://jihado.com/) 
 - 📫 How to reach me **jihadalibrahimm@gmail.com**
 - 📄 Know about my experiences [My Resume](https://jihado.com/)
 
@@ -75,14 +68,19 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
   <a href="https://linkedin.com/in/jihad-alibrahim" target="blank">LinkedIn</a> •
+  
   <a href="https://www.facebook.com/profile.php?id=100092865439805" target="blank">Facebook</a> •
+  
   <a href="https://instagram.com/jihad_elibrahimm" target="blank">Instagram</a>
 </p>
 
 <h3 align="left">Projects:</h3>
 <ul>
   <li><a href="https://grand-meerkat-cc92b1.netlify.app/">Grand Meerkat</a></li>
+  
   <li><a href="https://jihado-i.github.io/AwesomePortfolio/">Awesome Portfolio</a></li>
+  
   <li><a href="https://lambent-tulumba-afbeec.netlify.app/">Lambent Tulumba</a></li>
 </ul>
