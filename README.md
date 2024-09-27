@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/Lq8aPpMiw9TTm/giphy.gif" alt="coding animation" />
+<img align="right" height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm5xZHRheWc0MTlmbDlsdGN1b3NleWc0dG1lNm5kM2tmYWh1OHVpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.gif" alt="coding animation" />
 
 ###
 
