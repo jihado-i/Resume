@@ -73,7 +73,7 @@
   
   <a href="https://www.facebook.com/profile.php?id=100092865439805" target="blank">Facebook</a> •
   
-  <a href="https://instagram.com/jihad_elibrahimm" target="blank">Instagram</a>
+  <a href="https://instagram.com/jihad_elibrahimm" target="blank">Instagram</a> •
 </p>
 
 <h3 align="left">Projects:</h3>
